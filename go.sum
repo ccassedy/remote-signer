@@ -772,6 +772,8 @@ github.com/prysmaticlabs/prysm v1.0.0-alpha.14 h1:xFb23/Ln6NRu8B34OedHOuGUyojgGF
 github.com/prysmaticlabs/prysm v1.0.0-alpha.14/go.mod h1:J1dmlbsLw1Zfiklq8hv+CF1xjV2GQAbRxM5KlYHYhoM=
 github.com/prysmaticlabs/prysm v1.0.0-alpha.14.0.20200710054956-2c9474ab7f93 h1:G6P5HFp6YKC/CGtWq2cp9OcE6Zc6wKSkCj8Y7MpjuH8=
 github.com/prysmaticlabs/prysm v1.0.0-alpha.14.0.20200710054956-2c9474ab7f93/go.mod h1:Tc11ZA++WnwihAp2k/LajtVfPrOWyB6wEv+9wQRptKM=
+github.com/prysmaticlabs/prysm v1.0.0-alpha.15 h1:FPbSYm7uw4Ywcf07OVues+UzvVIaxhu39oozrwwaPYE=
+github.com/prysmaticlabs/prysm v1.0.0-alpha.15/go.mod h1:Tc11ZA++WnwihAp2k/LajtVfPrOWyB6wEv+9wQRptKM=
 github.com/rcrowley/go-metrics v0.0.0-20190826022208-cac0b30c2563/go.mod h1:bCqnVzQkZxMG4s8nGwiZ5l3QUCyqpo9Y+/ZMZ9VjZe4=
 github.com/retailnext/hllpp v1.0.1-0.20180308014038-101a6d2f8b52/go.mod h1:RDpi1RftBQPUCDRw6SmxeaREsAaRKnOclghuzp/WRzc=
 github.com/rjeczalik/notify v0.9.1/go.mod h1:rKwnCoCGeuQnwBtTSPL9Dad03Vh2n40ePRrjvIXnJho=
